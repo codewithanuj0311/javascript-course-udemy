@@ -1,0 +1,7 @@
+.parcel-cache/
+
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
